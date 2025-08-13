@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Wedding Event</title>
+        <style>
+        h1{
+            background-color: rgb(227, 53, 146);
+        }
+        h1{
+            color:yellow;
+        }
+        body{
+            background-color: rgb(207, 124, 173);
+        }
+            h2{
+                color: rgb(136, 212, 152);
+            }
+            #HFAP{
+                color: rgb(49, 35, 237);
+            }
+        </style>
+    </head>
+    <body>
+        
+        <h1>You're invited!</h1>
+        <h2>To Wedding Party</h2>
+        <h3>Venue : HOME</h3>
+        <p id="HFAP">The details:Decorate House,Fun activities,Preparing Food
+                    </p>
+<h3>House Decaration</h3>
+<img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/beach-waves-daytime.png" width="199" alt="Beach Waves">
+        <ul>
+            <li>We need light candles, and arrange flowers or balloons to create a romantic atmosphere. </li>
+        </ul>
+        <h3>Menu</h3>
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/food/hamburger.png" width="200" alt="Burger">
+        <ol><li>Burger</li>
+           <li>Fries</li><li>Samosa</li>
+            <li>Chapathi</li>
+            <li>Rice</li>
+            <li>Curry</li>
+            <li>Fry</li>
+            <li>Dal</li>
+            <li>Curd</li>
+        </ol>
+        
+    </body>
+</html>
